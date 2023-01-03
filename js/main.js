@@ -314,7 +314,7 @@
 
 	function makeTimer() {
 
-		var endTime = new Date("21 December 2022 12:00:00 GMT+05:30");			
+		var endTime = new Date("3 January 2023 13:00:00 GMT+05:30");			
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
